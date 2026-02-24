@@ -76,9 +76,4 @@ She builds beginner-friendly solutions that improve productivity, support educat
 - Adding analytics and daily reports  
 - Creating a full content-calendar automation
 
----
-
-## 📎 License
-
-This project is free to use for learning and educational purposes.
 
